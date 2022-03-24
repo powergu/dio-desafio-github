@@ -18,3 +18,8 @@ ssh-keygen -t ed25519 -c "email"
 
 git push origin "geralmente é o nome utilizado ao em vez do sha1" 
 git push origin main (main = brain)
+git clone "HTTPS GIT" para clonar seu projeto no GitBash
+
+Dica de atalho
+
+Right Click+ Git Bash Here (No diretório) - Agilizar processo de abertura do Git Bash no diretório correto.
