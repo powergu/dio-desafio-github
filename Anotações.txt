@@ -1,0 +1,17 @@
+Comandos Git / GitHub
+
+cd _____ / - acessar diretório
+cd .. - voltar
+Tab - completar
+echo - redirecionador de fluxo / criador arquivo
+del - deletar arquivo 
+seta direcional cima - digitação recente
+/s /q (flex) - forma simples usual
+/s - remove todo diretorio + arquivos
+/q - sem confirmação de risco
+
+
+
+sha1 - Segurança - linha de 40 digítos.
+
+ssh-keygen -t ed25519 -c "email"
