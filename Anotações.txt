@@ -9,6 +9,7 @@ seta direcional cima - digitação recente
 /s /q (flex) - forma simples usual
 /s - remove todo diretorio + arquivos
 /q - sem confirmação de risco
+mkdir (criar pasta) Ex: mkdir Windows (cria pasta Windows)
 
 
 
