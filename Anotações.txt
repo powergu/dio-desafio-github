@@ -15,3 +15,6 @@ seta direcional cima - digitação recente
 sha1 - Segurança - linha de 40 digítos.
 
 ssh-keygen -t ed25519 -c "email"
+
+git push origin "geralmente é o nome utilizado ao em vez do sha1" 
+git push origin main (main = brain)
